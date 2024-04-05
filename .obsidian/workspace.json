@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "b603af900336468a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2edc4f9cfff3635c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a1ef6b856633fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Begining (The Party).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b96cb28edd1ed8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Truth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af9490672cde9f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ethan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c921f780ebca75c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Begining (The Party).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67349bc20c047f09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Esmerelda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdd1b4954319ae8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Elizia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "266839b3f00d6f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Tolvis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8be64df8e2de3dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Destin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f47abf1e96e87e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Iris.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7016b08f73e3dc74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/RocDoesArt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7eda30da5f4c84c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Alan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9a738ff7864b156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Begining (The Party).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b25c8ca88e1770f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Begining (The Party).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 12
+      },
+      {
+        "id": "80eea39e102c464e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48dee8034331a5c3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c329f385ce3f608",
+    "type": "split",
+    "children": [
+      {
+        "id": "725a8e5288536c81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c885ac5caae080f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12e873fad7abfd88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8aae7cd2ebfede14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a30bc93c1f822df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9bd8335e5a4d167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce0639fc44a4d8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Begining (The Party).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3d9cb808c21a9ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Begining (The Party).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea1a823fb6acbcf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff3fc1c877e1f2df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Begining (The Party).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b25c8ca88e1770f0",
+  "lastOpenFiles": [
+    "The Party.md",
+    "The Begining (The Party).md",
+    "Characters/Iris.md",
+    "Characters/Amra.md",
+    "Characters",
+    "Characters/Alan.md",
+    "Characters/RocDoesArt.md",
+    "Characters/Destin.md",
+    "Characters/Tolvis.md",
+    "Characters/Elizia.md",
+    "Characters/Esmerelda.md",
+    "Characters/Atticus.md",
+    "Characters/Ethan.md",
+    "Characters/Truth.md",
+    "Welcome.md"
+  ]
+}
