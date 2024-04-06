@@ -1,0 +1,1 @@
+By collcting rocks that can be found in the      endings, you can unlock a secret section of the main menu where you talk to [[RocDoesArt]] and you learn the true nature of the world that you have been playing through
