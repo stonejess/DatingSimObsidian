@@ -179,9 +179,11 @@
             "id": "26973966ab67133f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Secret 'True Ending'.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -327,13 +329,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26973966ab67133f",
+  "active": "1c885ac5caae080f",
   "lastOpenFiles": [
+    "Characters/Arma.md",
     "The Begining (The Party).md",
     "Secret 'True Ending'.md",
     "The Party.md",
     "Characters/Iris.md",
-    "Characters/Arma.md",
+    "Characters/Amra.md",
     "Characters",
     "Characters/Alan.md",
     "Characters/RocDoesArt.md",
