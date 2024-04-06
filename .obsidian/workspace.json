@@ -162,33 +162,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b8557e0923d8547e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret 'True Ending'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26973966ab67133f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secret 'True Ending'.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       },
       {
         "id": "80eea39e102c464e",
@@ -268,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secret 'True Ending'.md",
+                "file": "The Begining (The Party).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secret 'True Ending'.md",
+                "file": "The Begining (The Party).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secret 'True Ending'.md"
+                "file": "The Begining (The Party).md"
               }
             }
           }
@@ -331,12 +307,11 @@
   },
   "active": "1c885ac5caae080f",
   "lastOpenFiles": [
-    "Characters/Arma.md",
-    "The Begining (The Party).md",
     "Secret 'True Ending'.md",
     "The Party.md",
+    "The Begining (The Party).md",
     "Characters/Iris.md",
-    "Characters/Amra.md",
+    "Characters/Arma.md",
     "Characters",
     "Characters/Alan.md",
     "Characters/RocDoesArt.md",
