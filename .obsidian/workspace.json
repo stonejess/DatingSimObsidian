@@ -7,7 +7,10 @@
         "id": "2edc4f9cfff3635c",
         "type": "tabs",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "dimension": 43.54207436399217,
+=======
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
 =======
 >>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
         "children": [
@@ -175,7 +178,10 @@
               "state": {
                 "file": "Secret 'True Ending'.md",
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
                 "mode": "source",
                 "source": false
               }
@@ -188,6 +194,9 @@
               "type": "markdown",
               "state": {
                 "file": "Secret 'True Ending'.md",
+<<<<<<< HEAD
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
+=======
 >>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
                 "mode": "source",
                 "source": false
@@ -201,7 +210,10 @@
         "id": "80eea39e102c464e",
         "type": "tabs",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "dimension": 56.457925636007836,
+=======
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
 =======
 >>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
         "children": [
@@ -280,6 +292,10 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+                "file": "The Begining (The Party).md",
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
 =======
                 "file": "The Begining (The Party).md",
 >>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
@@ -300,6 +316,10 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+                "file": "The Begining (The Party).md",
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
 =======
                 "file": "The Begining (The Party).md",
 >>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
@@ -354,8 +374,11 @@
   "lastOpenFiles": [
     "Secret 'True Ending'.md",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Hi.md",
 =======
+=======
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
     "Characters/Arma.md",
     "The Begining (The Party).md",
     "The Party.md",
