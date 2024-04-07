@@ -6,7 +6,10 @@
       {
         "id": "2edc4f9cfff3635c",
         "type": "tabs",
-        "dimension": 46.37964774951076,
+<<<<<<< HEAD
+        "dimension": 43.54207436399217,
+=======
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
         "children": [
           {
             "id": "0a1ef6b856633fec",
@@ -165,24 +168,42 @@
             }
           },
           {
-            "id": "8d119f845e42f382",
+            "id": "b8557e0923d8547e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hi.md",
+                "file": "Secret 'True Ending'.md",
+<<<<<<< HEAD
+=======
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26973966ab67133f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Secret 'True Ending'.md",
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       },
       {
         "id": "80eea39e102c464e",
         "type": "tabs",
-        "dimension": 53.62035225048923,
+<<<<<<< HEAD
+        "dimension": 56.457925636007836,
+=======
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
         "children": [
           {
             "id": "48dee8034331a5c3",
@@ -258,7 +279,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hi.md",
+<<<<<<< HEAD
+=======
+                "file": "The Begining (The Party).md",
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +299,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hi.md",
+<<<<<<< HEAD
+=======
+                "file": "The Begining (The Party).md",
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,9 +324,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
+              "state": {}
+=======
               "state": {
-                "file": "Hi.md"
+                "file": "The Begining (The Party).md"
               }
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
             }
           }
         ]
@@ -319,14 +350,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d119f845e42f382",
+  "active": "48dee8034331a5c3",
   "lastOpenFiles": [
-    "The Begining (The Party).md",
-    "Hi.md",
     "Secret 'True Ending'.md",
+<<<<<<< HEAD
+    "Hi.md",
+=======
+    "Characters/Arma.md",
+    "The Begining (The Party).md",
     "The Party.md",
     "Characters/Iris.md",
-    "Characters/Arma.md",
+    "Characters/Amra.md",
     "Characters",
     "Characters/Alan.md",
     "Characters/RocDoesArt.md",
@@ -335,8 +369,21 @@
     "Characters/Elizia.md",
     "Characters/Esmerelda.md",
     "Characters/Atticus.md",
+>>>>>>> e18fc4d2bf1bcd36d0236b68a42171b0d3aff480
     "Characters/Ethan.md",
+    "Characters/Iris.md",
+    "Characters/Esmerelda.md",
     "Characters/Truth.md",
+    "Characters/Tolvis.md",
+    "Characters/RocDoesArt.md",
+    "Characters/Alan.md",
+    "Characters/Arma.md",
+    "Characters/Atticus.md",
+    "Characters/Destin.md",
+    "The Begining (The Party).md",
+    "The Party.md",
+    "Characters",
+    "Characters/Elizia.md",
     "Welcome.md"
   ]
 }
